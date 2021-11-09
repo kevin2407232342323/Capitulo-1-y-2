@@ -1,6 +1,6 @@
 Universidad de las Fuerzas Armadas-ESPE. Departamento ciencias de la vida, Carrera Mecatrónica
 
-*Tarea 1
+Tarea 1
 1.     Capítulo 1 y Capítulo 2
 2.     Realizar resúmenes del capítulo 1 y 2 con sus respectivos problemas.
 
@@ -9,9 +9,8 @@ Universidad de las Fuerzas Armadas-ESPE. Departamento ciencias de la vida, Carre
 
 1.     Alexander Paul Ballesteros Jurado.
 2.      Jaime Joe Araque Guasgua
-3.      kevin alberto morales 
+3.      kevin Alberto Morales
  Docente: Ing. Alulema Flores Darwin Omar
-
 
 Objetivo General
 
@@ -35,9 +34,4 @@ Expresar cualquier número por medio de una potencia de diez
  
 Enumerar los prefijos métricos
 
-Cambiar una potencia de diez dada en notación de ingeniería a un prefijo métrico
-
-MARCO TEÓRICO:
-
-
-
+Cambiar una potencia de diez dada en notación de ingeniería a un prefijo métrica 

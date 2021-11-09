@@ -37,3 +37,7 @@ Enumerar los prefijos métricos
 
 Cambiar una potencia de diez dada en notación de ingeniería a un prefijo métrico
 
+MARCO TEÓRICO:
+
+
+

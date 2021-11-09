@@ -9,7 +9,7 @@ Universidad de las Fuerzas Armadas-ESPE. Departamento ciencias de la vida, Carre
 
 1.     Alexander Paul Ballesteros Jurado.
 2.      Jaime Joe Araque Guasgua
-3.      kevin alberto morales 
+3.      Kevin Alberto Morales
  Docente: Ing. Alulema Flores Darwin Omar
 
 

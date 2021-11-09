@@ -1,4 +1,4 @@
-*Universidad de las Fuerzas Armadas-ESPE. Departamento ciencias de la vida, Carrera Mecatrónica
+* Universidad de las Fuerzas Armadas-ESPE. Departamento ciencias de la vida, Carrera Mecatrónica
 
 Tarea 1
 1.     Capítulo 1 y Capítulo 2
